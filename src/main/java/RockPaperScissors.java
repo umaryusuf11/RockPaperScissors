@@ -1,12 +1,8 @@
-import java.util.ArrayList;
-//import java.util.io.*;
-import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
 class RockPaperScissors {
 
-    private List<String> property;
     private Scanner userInput = new Scanner(System.in);
     private Random rand = new Random();
     private int numberOfWeapons;
