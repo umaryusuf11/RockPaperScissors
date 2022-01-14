@@ -10,7 +10,8 @@
 * Once you have the forked start project cloned and in your IDE
 * Build to see if you have errors, there should be none
 * Run Rock Paper Scissors and play the game to prove it works
-* Amend the RockPaperScissors method playGame
+
+Amend the RockPaperScissors method playGame:
 * Create a local variable of type String name
 * Set the name equal to the return from consoleStringInput pass in "Enter name"
 * Pass the variable to the method determineWinner
