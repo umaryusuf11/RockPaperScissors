@@ -2,7 +2,7 @@
 
 ## Setup
 
-* For a full list of sintructions see [https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/setup/Full_Instructions](https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/setup/Full_Instructions)
+* For a full list of instructions see [https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/setup/Full_Instructions](https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/setup/Full_Instructions)
 * Or the two below if you want to get used to using a wiki [https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/setup](https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/setup)
 * Fork [RockPaperScissorsSimple](https://stgit.dcs.gla.ac.uk/DerekSomerville/rockpaperscissorssimple) see [https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/Git/Project_Setup](https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/Git/Project_Setup)
 
