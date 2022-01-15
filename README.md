@@ -4,6 +4,7 @@
 
 * See [https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/setup](https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/setup)
 * Fork [RockPaperScissorsSimple](https://stgit.dcs.gla.ac.uk/DerekSomerville/rockpaperscissorssimple) see [https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/Git/Project_Setup](https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/Git/Project_Setup)
+* Or all the instructions in one place [https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/setup/Full_Instructions](https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/setup/Full_Instructions)
 
 ## Instructions To Amend
 
