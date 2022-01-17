@@ -50,7 +50,7 @@ class RockPaperScissors {
         return consoleIntInput(generateRequest(weapons));
     }
 
-    public String determineWinner(String[] weaponList, int userWeapon, int computerWeapon)
+    public String determineWinner(String[] weaponList, int userWeapon, int computerWeapon, String userName)
     {
         String winner;
         if (userWeapon == computerWeapon)
@@ -59,7 +59,7 @@ class RockPaperScissors {
         }
         else if ((userWeapon + 1) % 3 == computerWeapon)
         {
-            winner = "You win and beat the computer's " + weaponList[computerWeapon];
+            winner = userName + " wins and beat the computer's " + weaponList[computerWeapon];
         }
         else if ((computerWeapon + 1) % 3 == userWeapon)
         {
@@ -83,6 +83,8 @@ class RockPaperScissors {
     }
 
     public void playGame(String[] weaponList){
+        String name = consoleStringInput("Enter name");
+
         int userWeapon;
         numberOfWeapons = weaponList.length;
         int computerWeapon;
@@ -91,7 +93,7 @@ class RockPaperScissors {
         userWeapon = requestPlay(weaponList);
         do{
             computerWeapon = getComputerInt();
-            winner = determineWinner(weaponList, userWeapon, computerWeapon);
+            winner = determineWinner(weaponList, userWeapon, computerWeapon, name);
             displayWinner(winner);
             userWeapon = requestPlay(weaponList);
         } while (userWeapon< weaponList.length);
