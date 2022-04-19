@@ -1,4 +1,4 @@
-# RockPaperScissorsSimple
+# RockPaperScissors
 
 ## Setup
 
